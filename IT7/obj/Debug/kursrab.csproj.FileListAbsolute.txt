@@ -1,0 +1,12 @@
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\bin\Debug\IT7.exe.config
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\bin\Debug\IT7.exe
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\bin\Debug\IT7.pdb
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\obj\Debug\kursrab.csproj.AssemblyReference.cache
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\obj\Debug\kursrab.csproj.SuggestedBindingRedirects.cache
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\obj\Debug\IT7.AddForm.resources
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\obj\Debug\IT7.ExpertSystemForm.resources
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\obj\Debug\IT7.Properties.Resources.resources
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\obj\Debug\kursrab.csproj.GenerateResource.cache
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\obj\Debug\kursrab.csproj.CoreCompileInputs.cache
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\obj\Debug\IT7.exe
+C:\Users\dima-\OneDrive\Рабочий стол\kursovaya\kurs\IT7\obj\Debug\IT7.pdb
